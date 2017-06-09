@@ -1,0 +1,4 @@
+export const ACTION_TYPES = {
+  LOAD_STAT: 'LOAD_STAT',
+  LOAD_FORM: 'LOAD_FORM'
+};
